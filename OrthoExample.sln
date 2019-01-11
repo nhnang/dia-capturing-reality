@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{DAAF57E6-E8C9-4449-833D-A5CC6BBD2EEC}") = "OrthoExample", "OrthoExample.vcxproj", "{E3EC915E-6496-485F-8B7A-91E7410E5920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3EC915E-6496-485F-8B7A-91E7410E5920}.Debug|x64.ActiveCfg = Debug|x64
+		{E3EC915E-6496-485F-8B7A-91E7410E5920}.Debug|x64.Build.0 = Debug|x64
+		{E3EC915E-6496-485F-8B7A-91E7410E5920}.Release|x64.ActiveCfg = Release|x64
+		{E3EC915E-6496-485F-8B7A-91E7410E5920}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
